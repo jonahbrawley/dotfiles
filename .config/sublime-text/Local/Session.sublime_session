@@ -1,0 +1,645 @@
+{
+	"file_history":
+	[
+		"/home/jbrawley/Desktop/rockbox-photo-cf-support/firmware/export/config/ipodcolor.h",
+		"/home/jbrawley/Desktop/app-interface/data/services/app-interface/go-qontract-reconcile/cicd/saas-go-qontract-reconcile.yaml",
+		"/home/jbrawley/Desktop/app-interface/resources/services/app-sre-observability/rds-deprecated-major-versions.prometheusrules.yaml.j2",
+		"/home/jbrawley/Desktop/app-interface/resources/services/app-sre-observability/rds-approved-versions.prometheusrules.yaml.j2",
+		"/home/jbrawley/Desktop/app-interface/resources/services/app-sre-observability/test/rds-deprecated-major-versions-prometheusrules-expected-result.yml",
+		"/home/jbrawley/Desktop/app-interface/resources/observability/prometheusrules/rds-approved-versions-test.prometheusrules.yaml",
+		"/home/jbrawley/Desktop/app-interface/resources/services/app-sre-observability/test/rds-approved-versions-prometheusrules-expected-result.yml",
+		"/home/jbrawley/Desktop/app-interface/resources/observability/prometheusrules/rds-approved-versions-test.prometheusrulestests.yaml",
+		"/home/jbrawley/Desktop/app-interface/resources/observability/prometheusrules/rds-deprecated-major-versions-test.prometheusrulestests.yaml",
+		"/home/jbrawley/Desktop/app-interface/resources/observability/prometheusrules/rds-deprecated-major-versions-test.prometheusrules.yaml",
+		"/home/jbrawley/Desktop/app-interface/test_data/services/aws-resource-tests/namespaces/rds-approved-versions.yml",
+		"/home/jbrawley/Desktop/go-qontract-reconcile/Dockerfile",
+		"/home/jbrawley/Desktop/app-interface/README.md",
+		"/home/jbrawley/Desktop/app-interface/data/app-interface/emails/all-rds/2023-07-13-rds-sept-2023-mysql5.7-deprecation-initial-email.yaml",
+		"/home/jbrawley/Desktop/app-interface/data/app-interface/emails/all-rds/2023-01-23-rds-march-2023-upgrades-initial-email.yml",
+		"/home/jbrawley/Desktop/app-interface/data/app-interface/emails/all-rds/2023-07-13-rds-nov-2023-postgres-11-deprecation-initial-email.yaml",
+		"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-march-2023.md",
+		"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-june-2022.md",
+		"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-nov-2023.md",
+		"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-sept-2023.md",
+		"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-aug-2023.md",
+		"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-aug-2023",
+		"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-oct-2023.md",
+		"/home/jbrawley/Desktop/gl-desc-create/main.go",
+		"/home/jbrawley/Desktop/gpg-cli/main.go",
+		"/home/jbrawley/Desktop/go-aws/aws.go",
+		"/home/jbrawley/Desktop/gpg-cli/cmd/root.go",
+		"/home/jbrawley/Desktop/gpg-cli/cmd/find.go",
+		"/home/jbrawley/Desktop/demo/goresponder/server.go",
+		"/home/jbrawley/Desktop/demo/templates/app.html",
+		"/home/jbrawley/Desktop/app-interface/data/teams/app-sre/users/jbrawley.yml",
+		"/home/jbrawley/Desktop/demo/goresponder/yaml/GoResponder.yaml",
+		"/home/jbrawley/Desktop/demo/yaml/SQL.yaml",
+		"/home/jbrawley/Desktop/demo/todo",
+		"/home/jbrawley/Desktop/demo/sql/yaml/cfg.yaml",
+		"/home/jbrawley/Desktop/demo/sql/yaml/SQL.yaml",
+		"/home/jbrawley/Desktop/demo/sql/setup/setup.sql",
+		"/home/jbrawley/Desktop/demo/sql/Dockerfile",
+		"/home/jbrawley/Desktop/demo/wsgi.py",
+		"/home/jbrawley/Desktop/demo/app.py",
+		"/home/jbrawley/Desktop/demo/Dockerfile",
+		"/home/jbrawley/Desktop/demo/sql/setup.sql",
+		"/home/jbrawley/Desktop/demo/yaml/AltDeployment.yaml",
+		"/home/jbrawley/Desktop/demo/README.md",
+		"/home/jbrawley/Desktop/zero-reconcile/01-file-reconcile/package.json",
+		"/home/jbrawley/Desktop/zero-reconcile/01-file-reconcile/jobs.js",
+		"/home/jbrawley/Desktop/zero-reconcile/01-file-reconcile/index.js",
+		"/home/jbrawley/Desktop/zero-reconcile/00-zero-reconcile/zr.py",
+		"/home/jbrawley/Desktop/test.py",
+		"/home/jbrawley/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/jbrawley/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/jbrawley/Desktop/zero-reconcile/README.md",
+		"/home/jbrawley/Desktop/zero-reconcile/01-file-reconcile/README.md"
+	],
+	"folder_history":
+	[
+		"/home/jbrawley/Desktop/rockbox",
+		"/home/jbrawley/Desktop/rockbox-photo-cf-support",
+		"/home/jbrawley/Desktop/app-interface",
+		"/home/jbrawley/Desktop/go-qontract-reconcile",
+		"/home/jbrawley/Desktop/app-interface/resources",
+		"/home/jbrawley/Desktop/app-interface/resources/observability/prometheusrules",
+		"/home/jbrawley/Desktop/app-interface/data/app-interface/emails/all-rds",
+		"/home/jbrawley/Desktop/gpg-cli",
+		"/home/jbrawley/Desktop/gl-desc-create",
+		"/home/jbrawley/Desktop/go-aws",
+		"/home/jbrawley/Desktop/demo",
+		"/home/jbrawley/Desktop/zero-reconcile"
+	],
+	"last_version": 4143,
+	"last_window_id": 24,
+	"log_indexing": false,
+	"next_update_check": 1690819670,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1016.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			25.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"priv",
+						"priv_ex"
+					],
+					[
+						"diff",
+						"diffPairs"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jbrawley/Desktop/app-interface/resources/services/app-sre-observability/rds-deprecated-major-versions.prometheusrules.yaml.j2",
+				"/home/jbrawley/Desktop/app-interface/resources/services/app-sre-observability/rds-approved-versions.prometheusrules.yaml.j2",
+				"/home/jbrawley/Desktop/app-interface/resources/services/app-sre-observability/test/rds-deprecated-major-versions-prometheusrules-expected-result.yml",
+				"/home/jbrawley/Desktop/app-interface/resources/observability/prometheusrules/rds-approved-versions-test.prometheusrules.yaml",
+				"/home/jbrawley/Desktop/app-interface/resources/services/app-sre-observability/test/rds-approved-versions-prometheusrules-expected-result.yml",
+				"/home/jbrawley/Desktop/app-interface/resources/observability/prometheusrules/rds-approved-versions-test.prometheusrulestests.yaml",
+				"/home/jbrawley/Desktop/app-interface/resources/observability/prometheusrules/rds-deprecated-major-versions-test.prometheusrulestests.yaml",
+				"/home/jbrawley/Desktop/app-interface/resources/observability/prometheusrules/rds-deprecated-major-versions-test.prometheusrules.yaml",
+				"/home/jbrawley/Desktop/app-interface/test_data/services/aws-resource-tests/namespaces/rds-approved-versions.yml",
+				"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-nov-2023.md",
+				"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-sept-2023.md",
+				"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-aug-2023.md",
+				"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-aug-2023",
+				"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-oct-2023.md",
+				"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-june-2022.md",
+				"/home/jbrawley/Desktop/demo/goresponder/yaml/GoResponder.yaml",
+				"/home/jbrawley/Desktop/demo/yaml/SQL.yaml",
+				"/home/jbrawley/Desktop/demo/todo",
+				"/home/jbrawley/Desktop/demo/sql/yaml/cfg.yaml",
+				"/home/jbrawley/Desktop/demo/sql/yaml/SQL.yaml",
+				"/home/jbrawley/Desktop/demo/sql/setup/setup.sql",
+				"/home/jbrawley/Desktop/demo/sql/Dockerfile",
+				"/home/jbrawley/Desktop/demo/wsgi.py",
+				"/home/jbrawley/Desktop/demo/app.py",
+				"/home/jbrawley/Desktop/demo/templates/app.html",
+				"/home/jbrawley/Desktop/demo/Dockerfile",
+				"/home/jbrawley/Desktop/demo/sql/setup.sql",
+				"/home/jbrawley/Desktop/demo/yaml/AltDeployment.yaml",
+				"/home/jbrawley/Desktop/demo/README.md",
+				"/home/jbrawley/Desktop/zero-reconcile/README.md",
+				"/home/jbrawley/Desktop/zero-reconcile/01-file-reconcile/README.md",
+				"/home/jbrawley/Desktop/zero-reconcile/01-file-reconcile/jobs.js"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"HAVE_ATA_POWEROFF",
+					"HAVE_ATA"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 246.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1896.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"priv",
+						"priv_ex"
+					],
+					[
+						"diff",
+						"diffPairs"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/jbrawley/Desktop/rockbox/firmware/export/config/ipodcolor.h",
+					"settings":
+					{
+						"buffer_size": 6352,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "//"
+							},
+							"AgAAAEQKAAAAAAAARQoAAAAAAAAAAAAARQoAAAAAAABGCgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARAoAAAAAAABECgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAGAKAAAAAAAAYQoAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAoAAAAAAABgCgAAAAAAAAAAAAAAADJA"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "#define"
+							},
+							"BwAAAGAKAAAAAAAAYQoAAAAAAAAAAAAAYQoAAAAAAABiCgAAAAAAAAAAAABiCgAAAAAAAGMKAAAAAAAAAAAAAGMKAAAAAAAAZAoAAAAAAAAAAAAAZAoAAAAAAABlCgAAAAAAAAAAAABlCgAAAAAAAGYKAAAAAAAAAAAAAGYKAAAAAAAAZwoAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAoAAAAAAABgCgAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": " HAVE_"
+							},
+							"BgAAAGcKAAAAAAAAaAoAAAAAAAAAAAAAaAoAAAAAAABpCgAAAAAAAAAAAABpCgAAAAAAAGoKAAAAAAAAAAAAAGoKAAAAAAAAawoAAAAAAAAAAAAAawoAAAAAAABsCgAAAAAAAAAAAABsCgAAAAAAAG0KAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAZwoAAAAAAABnCgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "FLASH"
+							},
+							"BQAAAG0KAAAAAAAAbgoAAAAAAAAAAAAAbgoAAAAAAABvCgAAAAAAAAAAAABvCgAAAAAAAHAKAAAAAAAAAAAAAHAKAAAAAAAAcQoAAAAAAAAAAAAAcQoAAAAAAAByCgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAbQoAAAAAAABtCgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert_completion",
+							{
+								"completion": "HAVE_FLASH_STORAGE",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "HAVE_FLASH_STORAGE"
+							},
+							"AgAAAGgKAAAAAAAAaAoAAAAAAAAKAAAASEFWRV9GTEFTSGgKAAAAAAAAegoAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcgoAAAAAAAByCgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": "//"
+							},
+							"AgAAAHkSAAAAAAAAehIAAAAAAAAAAAAAehIAAAAAAAB7EgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAeRIAAAAAAAB5EgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": "//"
+							},
+							"AgAAAE8GAAAAAAAAUAYAAAAAAAAAAAAAUAYAAAAAAABRBgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATwYAAAAAAABPBgAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/jbrawley/Desktop/rockbox",
+				"/home/jbrawley/Desktop/rockbox/firmware",
+				"/home/jbrawley/Desktop/rockbox/firmware/export",
+				"/home/jbrawley/Desktop/rockbox/firmware/export/config"
+			],
+			"file_history":
+			[
+				"/home/jbrawley/Desktop/app-interface/resources/services/app-sre-observability/rds-deprecated-major-versions.prometheusrules.yaml.j2",
+				"/home/jbrawley/Desktop/app-interface/resources/services/app-sre-observability/rds-approved-versions.prometheusrules.yaml.j2",
+				"/home/jbrawley/Desktop/app-interface/resources/services/app-sre-observability/test/rds-deprecated-major-versions-prometheusrules-expected-result.yml",
+				"/home/jbrawley/Desktop/app-interface/resources/observability/prometheusrules/rds-approved-versions-test.prometheusrules.yaml",
+				"/home/jbrawley/Desktop/app-interface/resources/services/app-sre-observability/test/rds-approved-versions-prometheusrules-expected-result.yml",
+				"/home/jbrawley/Desktop/app-interface/resources/observability/prometheusrules/rds-approved-versions-test.prometheusrulestests.yaml",
+				"/home/jbrawley/Desktop/app-interface/resources/observability/prometheusrules/rds-deprecated-major-versions-test.prometheusrulestests.yaml",
+				"/home/jbrawley/Desktop/app-interface/resources/observability/prometheusrules/rds-deprecated-major-versions-test.prometheusrules.yaml",
+				"/home/jbrawley/Desktop/app-interface/test_data/services/aws-resource-tests/namespaces/rds-approved-versions.yml",
+				"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-nov-2023.md",
+				"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-sept-2023.md",
+				"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-aug-2023.md",
+				"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-aug-2023",
+				"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-oct-2023.md",
+				"/home/jbrawley/Desktop/app-interface/docs/aws/maintenance/rds-upgrades-june-2022.md",
+				"/home/jbrawley/Desktop/demo/goresponder/yaml/GoResponder.yaml",
+				"/home/jbrawley/Desktop/demo/yaml/SQL.yaml",
+				"/home/jbrawley/Desktop/demo/todo",
+				"/home/jbrawley/Desktop/demo/sql/yaml/cfg.yaml",
+				"/home/jbrawley/Desktop/demo/sql/yaml/SQL.yaml",
+				"/home/jbrawley/Desktop/demo/sql/setup/setup.sql",
+				"/home/jbrawley/Desktop/demo/sql/Dockerfile",
+				"/home/jbrawley/Desktop/demo/wsgi.py",
+				"/home/jbrawley/Desktop/demo/app.py",
+				"/home/jbrawley/Desktop/demo/templates/app.html",
+				"/home/jbrawley/Desktop/demo/Dockerfile",
+				"/home/jbrawley/Desktop/demo/sql/setup.sql",
+				"/home/jbrawley/Desktop/demo/yaml/AltDeployment.yaml",
+				"/home/jbrawley/Desktop/demo/README.md",
+				"/home/jbrawley/Desktop/zero-reconcile/README.md",
+				"/home/jbrawley/Desktop/zero-reconcile/01-file-reconcile/README.md",
+				"/home/jbrawley/Desktop/zero-reconcile/01-file-reconcile/jobs.js"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"HAVE_ATA_POWEROFF",
+					"HAVE_ATA"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/jbrawley/Desktop/rockbox"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/jbrawley/Desktop/rockbox/firmware/export/config/ipodcolor.h",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6352,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1617,
+										1617
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 3,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 764.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,944,1016,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 246.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 24,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/jbrawley/Desktop/gpg-cli/README.sublime-workspace"
+		]
+	}
+}

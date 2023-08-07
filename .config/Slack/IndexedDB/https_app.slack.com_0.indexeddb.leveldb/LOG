@@ -1,0 +1,15 @@
+2023/07/21-19:12:14.930 9c9a Reusing MANIFEST /home/jbrawley/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/21-19:12:14.931 9c9a Recovering log #16
+2023/07/21-19:12:14.952 9c9a Reusing old log /home/jbrawley/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000016.log 
+2023/07/21-19:12:46.985 df3f Level-0 table #22: started
+2023/07/21-19:12:47.011 df3f Level-0 table #22: 1101872 bytes OK
+2023/07/21-19:12:47.024 df3f Delete type=0 #16
+2023/07/21-19:12:47.026 df3f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/07/21-19:12:47.026 df3f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x06\x02\x01\x1b\x00G\x00G\x00C\x002\x00A\x000\x00M\x00S\x008\x00-\x001\x006\x008\x009\x000\x000\x006\x005\x001\x004\x00.\x005\x004\x007\x009\x001\x009' @ 14483 : 1
+2023/07/21-19:12:47.026 df3f Compacting 1@1 + 1@2 files
+2023/07/21-19:12:47.042 df3f Generated table #23@1: 1361 keys, 370103 bytes
+2023/07/21-19:12:47.042 df3f Compacted 1@1 + 1@2 files => 370103 bytes
+2023/07/21-19:12:47.054 df3f compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/21-19:12:47.054 df3f Delete type=2 #19
+2023/07/21-19:12:47.054 df3f Delete type=2 #22
+2023/07/21-19:12:47.054 df3f Manual compaction at level-1 from '\x00\x08\x06\x02\x01\x1b\x00G\x00G\x00C\x002\x00A\x000\x00M\x00S\x008\x00-\x001\x006\x008\x009\x000\x000\x006\x005\x001\x004\x00.\x005\x004\x007\x009\x001\x009' @ 14483 : 1 .. (end); will stop at (end)
